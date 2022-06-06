@@ -1,0 +1,128 @@
+body{
+    background-color: black;
+}
+img{
+    position: relative;
+    left: 155px;
+}
+p{
+    height: 150px;
+    width: 500px;
+    color: aliceblue;
+    position: relative;
+    left: 240px;
+    bottom: 230px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.iguana2{
+    height: 350px;
+    width: 550px;
+    position: relative;
+    left: 900px;
+    top: 125px;
+    
+} 
+.caracteristicas{
+    background-color: rgba(115, 104, 57, 0.353);
+    height: 550px;
+    position: relative;
+    bottom: 100px;
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
+.movitex{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+ .modelo1{
+     height: 400px;
+     width: 400px;
+
+ }
+.tttt{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 10px;
+    top: 100px;
+}    
+.modelo2{
+    height: 400px;
+    width: 400px;
+}
+.tttt2{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 410px;
+    bottom: 200px;
+}
+.modelo3{
+    height: 400px;
+    width: 400px;
+}
+.tttt3{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 810px;
+    bottom: 500px;
+
+}
+ button{
+     position: relative;
+     left: 60px;
+     bottom: 120px ;
+     margin: 200px;
+     color: rgb(98, 214, 98);
+     font-size: 60px;
+     background-color: rgba(80, 113, 39, 0);
+     cursor: pointer;
+     transition: all;
+     border: 40px;
+   
+ }
+ .arbol{
+     height: 100px;
+     width: 500px;
+     position: relative;
+     text-align: center;
+     left: 40px;
+     font-family: 'Roboto', sans-serif;;
+     
+     
+ }
+ .huevos{
+     height: 100px;
+     width: 500px;
+     position: relative;
+     left: 675px;
+     bottom: 345px;
+     font-family: 'Roboto', sans-serif;
+ }
+.medida{
+     height: 100px;
+     width: 500px;
+     position: relative;
+     left: 965px;
+     bottom: 460px;
+     text-align: center;
+     font-family: 'Roboto', sans-serif;
+}
+footer{
+    background-color:rgb(98, 214, 98);
+    text-align: center;
+    font-size: 10px;
+    position: relative;
+    top: 30px;
+    
+}
+h1{
+    position: relative;
+    top: 0px;
+    color: black;
+}
